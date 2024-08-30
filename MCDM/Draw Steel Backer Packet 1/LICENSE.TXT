@@ -1,0 +1,2 @@
+This packet is released under the Draw Steel Creator License.
+The full text of the license is available on https://mcdm.gg/DS-license
